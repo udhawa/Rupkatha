@@ -5,4 +5,7 @@ public class helper{
        public void connectKafka(){
           connect();
        }
+       public void disconnectKafka(){
+          disconnect();
+       }
 }
